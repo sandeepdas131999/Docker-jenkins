@@ -1,4 +1,4 @@
-node ('web') {
+node ('Docker-jenkins') {
 
         def app
 
