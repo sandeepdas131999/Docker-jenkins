@@ -1,5 +1,6 @@
-version: "2.2"
-service:
+version: "3"
+services:
+  web:
     build:
       context: .  
     image: jenkins/local
